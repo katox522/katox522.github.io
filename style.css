@@ -6,12 +6,12 @@ body
 p
 {
     margin: 100px;
+    font-size: 20px;
 }
 b
 {
 
-    color: rgb(0, 0, 255); 
-    font-size: 20px;
+    color: rgb(0, 0, 255);  
     font-family: 'Barlow Condensed', sans-serif;
     
     
